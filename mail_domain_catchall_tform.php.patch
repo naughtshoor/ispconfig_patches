@@ -1,3 +1,5 @@
+The purpose is to allow digits in the TLD for catchalls
+
 File /var/www/ispconfig/mail/form/mail_domain_catchall_tform.php
 
 line 89
