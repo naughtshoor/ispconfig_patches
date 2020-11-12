@@ -1,0 +1,5 @@
+File /var/www/ispconfig/mail/form/mail_domain_catchall_tform.php
+
+line 89
+--- 'regex' => '/^\@[\w\.\-]{2,255}\.[a-zA-Z\-]{2,30}$/',
++++ 'regex' => '/^\@[\w\.\-]{2,255}\.[a-zA-Z0-9\-]{2,30}$/',
